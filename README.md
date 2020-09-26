@@ -1,4 +1,4 @@
-<center># WhatsApp clone</center>
+<center># WhatsAppclone</center>
  <h1>WhatsApp Clone feito em React-Native(Interface)</h1>
  <ul>
  <img src="https://github.com/edurib17/whatsappclone/blob/master/fotos/Screenshot_20200926-141638.png" height="500" widht="200" >
